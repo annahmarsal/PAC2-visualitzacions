@@ -3,5 +3,5 @@
 Aquest repositori conté les tres visualitzacions de la PAC 2.
 
 - [Sankey Diagram](https://nomusuari.github.io/pac2-visualitzacions/sankey.html)
-- [Treemap](https://nomusuari.github.io/pac2-visualitzacions/treemap.html)
+- [Treemap](https://annahmarsal.github.io/pac2-visualitzacions/treemap.html)
 - [Chord Diagram](https://nomusuari.github.io/pac2-visualitzacions/chord.html)
